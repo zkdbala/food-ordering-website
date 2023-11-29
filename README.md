@@ -3,7 +3,7 @@
 
 ![img](Images/first.PNG)
 
-This project is a purely front-end project which shows a online food delivery project. The website has various segments like Home, Services, Clients and a contact section.
+This project is a purely front-end project which shows an online food delivery website. The website has various segments like Home, Services, Clients, and a contact section.
 
 
 
